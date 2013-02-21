@@ -56,7 +56,7 @@
     <Content Include="API\ExpressCheckoutCancel.aspx" />
     <Content Include="API\ExpressCheckoutStart.aspx" />
     <Content Include="API\ExpressCheckoutSuccess.aspx" />
-    <Content Include="Default.aspx" />
+    <Content Include="index.html" />
     <Content Include="IPN\IPNHandler.aspx" />
     <Content Include="PDT\PDTSuccess.aspx" />
     <Content Include="PDT\PDTStart.aspx" />
@@ -85,13 +85,6 @@
       <DependentUpon>ExpressCheckoutSuccess.aspx</DependentUpon>
     </Compile>
     <Compile Include="API\PayPalAPIUtil.cs" />
-    <Compile Include="Default.aspx.cs">
-      <SubType>ASPXCodeBehind</SubType>
-      <DependentUpon>Default.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Default.aspx.designer.cs">
-      <DependentUpon>Default.aspx</DependentUpon>
-    </Compile>
     <Compile Include="IPN\IPNHandler.aspx.cs">
       <DependentUpon>IPNHandler.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
