@@ -3,3 +3,8 @@ C:\Users\venkat.TILLID\Desktop\Paypal\paypal_src\LepiPele.PayPal\bin\LepiPele.Pa
 C:\Users\venkat.TILLID\Desktop\Paypal\paypal_src\LepiPele.PayPal\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\venkat.TILLID\Desktop\Paypal\paypal_src\LepiPele.PayPal\obj\Debug\LepiPele.PayPal.dll
 C:\Users\venkat.TILLID\Desktop\Paypal\paypal_src\LepiPele.PayPal\obj\Debug\LepiPele.PayPal.pdb
+D:\WorkArea\DevelopArea\Paypaltest\LepiPele.PayPal\bin\LepiPele.PayPal.dll
+D:\WorkArea\DevelopArea\Paypaltest\LepiPele.PayPal\bin\LepiPele.PayPal.pdb
+D:\WorkArea\DevelopArea\Paypaltest\LepiPele.PayPal\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkArea\DevelopArea\Paypaltest\LepiPele.PayPal\obj\Debug\LepiPele.PayPal.dll
+D:\WorkArea\DevelopArea\Paypaltest\LepiPele.PayPal\obj\Debug\LepiPele.PayPal.pdb
